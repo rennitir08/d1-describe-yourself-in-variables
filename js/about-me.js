@@ -9,7 +9,7 @@ var hoursSlept = 5.75
 var music = "acapella"
 var showMovies = ['twilight', 'star', 'gilmore girls']
 var jobTitle;
-var myLife = " "
+var myLife = null;
 
 console.log (firstName)
 console.log(lastName)
